@@ -152,5 +152,5 @@ http://hbase.apache.org/</br>
 Apache Hbase downloads</br>
 https://downloads.apache.org/hbase/</br>
 
-Banco colunar
-https://aws.amazon.com/pt/nosql/columnar/
+Banco colunar</br>
+https://aws.amazon.com/pt/nosql/columnar/</br>
